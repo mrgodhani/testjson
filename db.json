@@ -1,8 +1,10 @@
-[
-  {
+{
+ "posts": [
+   {
     "title": "test1",
   },
   {
     "title": "test2",
   },
 ]
+}
